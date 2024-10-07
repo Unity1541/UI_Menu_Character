@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8659f455dc7f6204fa937d8f078aeec2, type: 3}
+  m_Name: Muichiro
+  m_EditorClassIdentifier: 
+  characterIndex: 5
+  image: []
+  dialogWindows: {fileID: 1589403956512592645, guid: d23900f53a429c84a97f257299631072, type: 3}
+  objCharacter: {fileID: 2761128048132912601, guid: e99d1e6674514c44c9566fd5176d952a, type: 3}
+  status: 0
